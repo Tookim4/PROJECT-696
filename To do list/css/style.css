@@ -1,0 +1,33 @@
+
+
+body{
+    background-image: url(/pics/mountain_sky_evening_116846_1920x1080.jpg);
+    min-height: 100vh;
+    z-index: -10;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 1.3rem;
+}
+
+.kim{
+    position: absolute;
+    min-height: 100vh;
+    min-width: 100vw;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(31, 34, 118, 0.5);
+    color: white;
+}
+
+.header{
+    color: white;
+}
+
+.head {
+    margin-top: 12rem;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+    font-family: var();
+}
